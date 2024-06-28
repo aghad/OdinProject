@@ -1,0 +1,13 @@
+.flex-container {
+    background-color: rgb(245, 233, 233);
+}
+
+.buttons {
+    display:flex;
+    justify-content: flex-start;
+}
+
+.operators {
+    display: flex;
+    justify-content: flex-start;
+}
